@@ -1,0 +1,141 @@
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\final_project_test.exe.config
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\final_project_test.exe
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\final_project_test.pdb
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Aspose.PDF.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Aspose.Words.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Asio.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Core.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Midi.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Wasapi.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.WinForms.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.WinMM.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\System.Security.AccessControl.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\WebDriver.dll
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Aspose.PDF.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Aspose.Words.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Asio.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Core.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Midi.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.Wasapi.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.WinForms.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\NAudio.WinMM.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\System.Security.AccessControl.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\bin\Debug\WebDriver.xml
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project.csproj.AssemblyReference.cache
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.ClockForm.resources
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.ConvertFileForm.resources
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.Form1.resources
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.Properties.Resources.resources
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.SetAccountForm.resources
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project.csproj.GenerateResource.cache
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project.csproj.CopyComplete
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.exe
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.pdb
+C:\Users\james\source\repos\final_project_test\final_project_test\obj\Debug\final_project_test.ToDoListForm.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\final_project_test.exe.config
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\final_project_test.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\final_project_test.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.PDF.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.Words.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Asio.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Core.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Midi.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Wasapi.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinForms.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinMM.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\WebDriver.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.PDF.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.Words.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Asio.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Core.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Midi.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Wasapi.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinForms.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinMM.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\bin\Debug\WebDriver.xml
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.ClockForm.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.ConvertFileForm.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.Form1.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.Properties.Resources.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.SetAccountForm.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.ToDoListForm.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.CopyComplete
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\00 期末專題\Final_Project\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.pdb
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\final_project_test.exe.config
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\final_project_test.exe
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\final_project_test.pdb
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.PDF.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.Words.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Asio.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Core.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Midi.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Wasapi.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinForms.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinMM.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.AccessControl.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\WebDriver.dll
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.PDF.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Aspose.Words.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Asio.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Core.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Midi.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.Wasapi.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinForms.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\NAudio.WinMM.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.AccessControl.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\bin\Debug\WebDriver.xml
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.AssemblyReference.cache
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.ClockForm.resources
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.ConvertFileForm.resources
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.Form1.resources
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.Properties.Resources.resources
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.SetAccountForm.resources
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.ToDoListForm.resources
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.GenerateResource.cache
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project.csproj.CopyComplete
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.exe
+C:\Users\james\OneDrive\桌面\ncku\視窗程式設計\final_project_v4\final_project_test\final_project_test\obj\Debug\final_project_test.pdb

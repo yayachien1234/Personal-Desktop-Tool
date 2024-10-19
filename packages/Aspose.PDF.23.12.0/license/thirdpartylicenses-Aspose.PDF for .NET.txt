@@ -1,0 +1,802 @@
+﻿Notices and Licenses required for redistribution of Aspose.PDF for .NET
+
+TABLE OF CONTENTS
+
+Aspose copyright notice
+JZlib license
+DotNetZip license
+ANTLR license
+Font DejaVu Sans license
+ICU license
+sfntly license
+DjvuNet license
+CSJ2K license
+OpenJpeg license
+sRGB_v4_ICC_preference.icc color profile license
+RSWOP.ICM color profile license
+DICOM
+XMP metadata support
+
+NOTICES AND LICENSES
+
+Aspose 
+
+Copyright (c) 2001-2023 Aspose Pty Ltd. All Rights Reserved.
+___________________________________________________________________   
+JZlib
+
+----------------------------------------------------------- 
+
+Copyright (c) 2000-2011 ymnk, JCraft,Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+  1. Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+
+  2. Redistributions in binary form must reproduce the above copyright 
+     notice, this list of conditions and the following disclaimer in 
+     the documentation and/or other materials provided with the distribution.
+
+  3. The names of the authors may not be used to endorse or promote products
+     derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL JCRAFT,
+INC. OR ANY CONTRIBUTORS TO THIS SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+___________________________________________________________________   
+
+Adobe Font Metrics (AFM) for PDF Core 14 Fonts
+
+   This file and the 14 PostScript(R) AFM files it accompanies may be used,
+   copied, and distributed for any purpose and without charge, with or without
+   modification, provided that all copyright notices are retained; that the
+   AFM files are not distributed without this file; that all modifications
+   to this file or any of the AFM files are prominently noted in the modified
+   file(s); and that this paragraph is not modified. Adobe Systems has no
+   responsibility or obligation to support the use of the AFM files. 
+
+CMaps for PDF Fonts (http://opensource.adobe.com/wiki/display/cmap/Downloads)
+
+   Copyright 1990-2009 Adobe Systems Incorporated.
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions
+   are met:
+
+   Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+
+   Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution. 
+
+   Neither the name of Adobe Systems Incorporated nor the names of its
+   contributors may be used to endorse or promote products derived from this
+   software without specific prior written permission. 
+
+   THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+   AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+   IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+   ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE
+   LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+   CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+   SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+   INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+   CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+   ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
+   THE POSSIBILITY OF SUCH DAMAGE.
+
+Glyphlist (http://www.adobe.com/devnet/opentype/archives/glyph.html)
+
+   Copyright (c) 1997,1998,2002,2007 Adobe Systems Incorporated
+ 
+   Permission is hereby granted, free of charge, to any person obtaining a
+   copy of this documentation file to use, copy, publish, distribute,
+   sublicense, and/or sell copies of the documentation, and to permit
+   others to do the same, provided that:
+   - No modification, editing or other alteration of this document is
+   allowed; and
+   - The above copyright notice and this permission notice shall be
+   included in all copies of the documentation.
+ 
+   Permission is hereby granted, free of charge, to any person obtaining a
+   copy of this documentation file, to create their own derivative works
+   from the content of this document to use, copy, publish, distribute,
+   sublicense, and/or sell the derivative works, and to permit others to do
+   the same, provided that the derived work is not represented as being a
+   copy or version of this document.
+ 
+   Adobe shall not be liable to any party for any loss of revenue or profit
+   or for indirect, incidental, special, consequential, or other similar
+   damages, whether based on tort (including without limitation negligence
+   or strict liability), contract or other legal or equitable grounds even
+   if Adobe has been advised or had reason to know of the possibility of
+   such damages. The Adobe materials are provided on an "AS IS" basis.
+   Adobe specifically disclaims all express, statutory, or implied
+   warranties relating to the Adobe materials, including but not limited to
+   those concerning merchantability or fitness for a particular purpose or
+   non-infringement of any third party rights regarding the Adobe
+   materials.
+
+       http://www.apache.org/licenses/LICENSE-2.0
+ 
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  
+  
+__________________________________________________________________
+DotNetZip
+
+This software is open source. It is released under the Microsoft Public
+License of October 2006.  The use of the "Microsoft Public License" does
+not mean it is licensed by Microsoft.  This license is copied below, and is
+also available online at: http://dotnetzip.codeplex.com/license
+
+
+-----------------------------------------------------------
+Microsoft Public License (Ms-PL) - 27 October 2007
+-----------------------------------------------------------
+
+This license governs use of the accompanying software. If you use the software, you accept this license. If you do not
+accept the license, do not use the software.
+
+1. Definitions
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under
+U.S. copyright law.
+
+A "contribution" is the original software, or any additions or changes to the software.
+
+A "contributor" is any person that distributes its contribution under this license.
+
+"Licensed patents" are a contributor's patent claims that read directly on its contribution.
+
+2. Grant of Rights
+(A) Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3,
+each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution,
+prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+
+(B) Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3,
+each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have
+made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works
+of the contribution in the software.
+
+3. Conditions and Limitations
+
+(A) No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+
+(B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software,
+your patent license from such contributor to the software ends automatically.
+
+(C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution
+notices that are present in the software.
+
+(D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in
+compiled or object code form, you may only do so under a license that complies with this license.
+
+(E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties,
+guarantees or conditions. You may have additional consumer rights under your local laws which this license cannot
+change. To the extent permitted under your local laws, the contributors exclude the implied warranties of
+merchantability, fitness for a particular purpose and non-infringement.
+
+ 
+___________________________________________________________________   
+ANTLR
+
+----------------------------------------------------------- 
+
+ANTLR 4 License
+[The BSD License]
+Copyright (c) 2012 Terence Parr and Sam Harwell
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+    Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    Neither the name of the author nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+___________________________________________________________________   
+Font DejaVu Sans
+
+----------------------------------------------------------- 
+
+Fonts are (c) Bitstream (see below). DejaVu changes
+are in public domain.
+Glyphs imported from Arev fonts are (c) Tavmjong Ba
+h (see below)
+Bitstream Vera Fonts Copyright
+------------------------------
+Copyright (c) 2003 by Bitstream, Inc. All Rights Re
+served. Bitstream Vera
+is
+a trademark of Bitstream, Inc.
+Permission is hereby granted, free of charge, to an
+y person obtaining a
+copy
+of the fonts accompanying this license ("Fonts") an
+d associated
+documentation files (the "Font Software"), to repro
+duce and distribute
+the
+Font Software, including without limitation the rig
+hts to use, copy,
+merge,
+publish, distribute, and/or sell copies of the Font
+Software, and to
+permit
+persons to whom the Font Software is furnished to d
+o so, subject to the
+following conditions:
+The above copyright and trademark notices and this
+permission notice
+shall
+be included in all copies of one or more of the Fon
+t Software typefaces.
+The Font Software may be modified, altered, or adde
+d to, and in
+particular
+the designs of glyphs or characters in the Fonts ma
+y be modified and
+additional glyphs or characters may be added to the
+Fonts, only if the
+fonts
+are renamed to names not containing either the word
+s "Bitstream" or the
+word
+"Vera".
+This License becomes null and void to the extent ap
+plicable to Fonts or
+Font
+Software that has been modified and is distributed
+under the "Bitstream
+Vera" names.
+The Font Software may be sold as part of a larger s
+oftware package but no
+copy of one or more of the Font Software typefaces
+may be sold by itself.
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARR
+ANTY OF ANY KIND,
+EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRAN
+TIES OF
+MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMEN
+T OF COPYRIGHT,
+PATENT,
+TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BITSTR
+EAM OR THE GNOME
+FOUNDATION BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHE
+R LIABILITY, INCLUDING
+ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONS
+EQUENTIAL DAMAGES,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE
+, ARISING FROM, OUT OF
+THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FR
+OM OTHER DEALINGS IN
+THE
+FONT SOFTWARE.
+Except as contained in this notice, the names of Gn
+ome, the Gnome
+Foundation, and Bitstream Inc., shall not be used i
+n advertising or
+otherwise to promote the sale, use or other dealing
+s in this Font
+Software
+without prior written authorization from the Gnome
+Foundation or
+Bitstream
+Inc., respectively. For further information, contac
+t: fonts at gnome dot
+org.
+Arev Fonts Copyright
+------------------------------
+Copyright (c) 2006 by Tavmjong Bah. All Rights Rese
+rved.
+Permission is hereby granted, free of charge, to an
+y person obtaining
+a copy of the fonts accompanying this license ("Fon
+ts") and
+associated documentation files (the "Font Software"
+), to reproduce
+and distribute the modifications to the Bitstream V
+era Font Software,
+including without limitation the rights to use, cop
+y, merge, publish,
+distribute, and/or sell copies of the Font Software
+, and to permit
+persons to whom the Font Software is furnished to d
+o so, subject to
+the following conditions:
+The above copyright and trademark notices and this
+permission notice
+shall be included in all copies of one or more of t
+he Font Software
+typefaces.
+The Font Software may be modified, altered, or adde
+d to, and in
+particular the designs of glyphs or characters in t
+he Fonts may be
+modified and additional glyphs or characters may be
+added to the
+Fonts, only if the fonts are renamed to names not c
+ontaining either
+the words "Tavmjong Bah" or the word "Arev".
+This License becomes null and void to the extent ap
+plicable to Fonts
+or Font Software that has been modified and is dist
+ributed under the
+"Tavmjong Bah Arev" names.
+The Font Software may be sold as part of a larger s
+oftware package but
+no copy of one or more of the Font Software typefac
+es may be sold by
+itself.
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARR
+ANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO AN
+Y WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE A
+ND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN
+NO EVENT SHALL
+TAVMJONG BAH BE LIABLE FOR ANY CLAIM, DAMAGES OR OT
+HER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTA
+L, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT S
+OFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+___________________________________________________________________   
+ICU
+
+----------------------------------------------------------- 
+
+ICU License - ICU 1.8.1 and later
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1995-2003 International Business Machines Corporation and others
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, and/or sell copies of the Software, and to permit persons
+to whom the Software is furnished to do so, provided that the above
+copyright notice(s) and this permission notice appear in all copies of
+the Software and that both the above copyright notice(s) and this
+permission notice appear in supporting documentation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL
+INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING
+FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
+WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder
+shall not be used in advertising or otherwise to promote the sale, use
+or other dealings in this Software without prior written authorization
+of the copyright holder.
+
+--------------------------------------------------------------------------------
+All trademarks and registered trademarks mentioned herein are the property of their respective owners.
+
+___________________________________________________________________   
+DjvuNet
+
+-----------------------------------------------------------
+The MIT License (MIT)
+
+Copyright (c) 2014 Telavian
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+___________________________________________________________________   
+CSJ2K
+
+-----------------------------------------------------------
+New BSD License (BSD)
+Copyright (c) 2007, CSJ2K Team
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+* Neither the name of CSJ2K Team nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+___________________________________________________________________   
+OpenJpeg
+
+-----------------------------------------------------------
+/*
+ * The copyright in this software is being made available under the 2-clauses 
+ * BSD License, included below. This software may be subject to other third 
+ * party and contributor rights, including patent rights, and no such rights
+ * are granted under this license.
+ *
+ * Copyright (c) 2002-2014, Universite catholique de Louvain (UCL), Belgium
+ * Copyright (c) 2002-2014, Professor Benoit Macq
+ * Copyright (c) 2003-2014, Antonin Descampe
+ * Copyright (c) 2003-2009, Francois-Olivier Devaux
+ * Copyright (c) 2005, Herve Drolon, FreeImage Team
+ * Copyright (c) 2002-2003, Yannick Verschueren
+ * Copyright (c) 2001-2003, David Janssens
+ * Copyright (c) 2011-2012, Centre National d'Etudes Spatiales (CNES), France 
+ * Copyright (c) 2012, CS Systemes d'Information, France
+ *
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/or other materials provided with the distribution.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS `AS IS'
+ * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+ * LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+ * CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+ * SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+ * CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+ * POSSIBILITY OF SUCH DAMAGE.
+ */
+ 
+___________________________________________________________________   
+sRGB_v4_ICC_preference.icc color profile
+
+-----------------------------------------------------------
+To anyone who acknowledges that the file "sRGB_v4_ICC_preference.icc" is provided "AS IS" WITH NO EXPRESS OR IMPLIED
+WARRANTY, permission to use, copy and distribute this file for any purpose is hereby granted without fee, provided that the file is
+not changed including the ICC copyright notice tag, and that the name of ICC shall not be used in advertising or publicity
+pertaining to distribution of the software without specific, written prior permission. ICC makes no representations about the
+suitability of this software for any purpose.
+
+___________________________________________________________________   
+RSWOP.ICM color profile
+
+-----------------------------------------------------------
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its
+affiliates) and you. Please read them. They apply to the software named above, which includes the media on which
+you received it, if any.
+BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT ACCEPT THEM, DO NOT USE THE
+SOFTWARE.
+If you comply with these license terms, you have the rights below.
+1. INSTALLATION AND USE RIGHTS. You may install and use any number of copies of the software on your
+devices.
+2. ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS. You are permitted to distribute the software
+if you comply with the terms below.
+i. Right to Use and Distribute.
+•Distribution. You may copy and distribute the software. You may not modify the software. You must distribute a
+complete copy of the software, including these license terms.
+•Re-Distribution. You may permit third parties to copy and distribute the software.
+ii. Distribution Requirements. If you distribute the software with your programs, you must
+•require distributors and external end users to agree to terms that protect it at least as much as this agreement;
+•display your valid copyright notice on your programs; and
+•indemnify, defend, and hold harmless Microsoft from any claims, including attorneys' fees, related to the
+distribution or use of your programs.
+iii. Distribution Restrictions. You may not
+•charge a separate price, license fee or royalty for the software;
+•alter any copyright, trademark or patent notice in the software;
+•use Microsoft's trademarks in your programs' names or in a way that suggests your programs come from or are
+endorsed by Microsoft; or
+•distribute malicious, deceptive or unlawful programs with the software.
+3. SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the
+software. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you
+may use the software only as expressly permitted in this agreement. In doing so, you must comply with any
+technical limitations in the software that only allow you to use it in certain ways. You may not
+•work around any technical limitations in the software;
+•reverse engineer, decompile or disassemble the software, except and only to the extent that applicable law
+expressly permits, despite this limitation;
+•make more copies of the software than specified in this agreement or allowed by applicable law, despite this 
+limitation;
+•rent, lease or lend the software; or
+•transfer the software or this agreement to any third party.
+4. DOCUMENTATION. Any person that has valid access to your computer or internal network may copy and use the
+documentation for your internal, reference purposes.
+5. EXPORT RESTRICTIONS. The software is subject to United States export laws and regulations. You must comply
+with all domestic and international export laws and regulations that apply to the software. These laws include
+restrictions on destinations, end users and end use. For additional information, see www.microsoft.com/exporting.
+6. SUPPORT SERVICES. Because this software is "as is," we do not provide support services for it.
+7. ENTIRE AGREEMENT. This agreement, and the terms for supplements, updates, Internet-based services and
+support services that you use, are the entire agreement for the software and support services.
+8. APPLICABLE LAW.
+a. United States. If you acquired the software in the United States, Washington state law governs the interpretation
+of this agreement and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state
+where you live govern all other claims, including claims under state consumer protection laws, unfair competition
+laws, and in tort.
+b. Outside the United States. If you acquired the software in any other country, the laws of that country apply.
+9. LEGAL EFFECT. This agreement describes certain legal rights. You may have other rights under the laws of your
+country. You may also have rights with respect to the party from whom you acquired the software. This agreement
+does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
+10. DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED "AS-IS." YOU BEAR THE RISK OF USING IT.
+MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS. YOU MAY HAVE
+ADDITIONAL CONSUMER RIGHTS UNDER YOUR LOCAL LAWS WHICH THIS AGREEMENT CANNOT CHANGE.
+TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+11. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. YOU CAN RECOVER FROM MICROSOFT
+AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00. YOU CANNOT RECOVER ANY OTHER
+DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+This limitation applies to
+•anything related to the software, services, content (including code) on third party Internet sites, or third party
+programs; and
+•claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to
+the extent permitted by applicable law.
+It also applies even if Microsoft knew or should have known about the possibility of the damages. The above
+limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of
+incidental, consequential or other damages.
+Please note: As this software is distributed in Quebec, Canada, some of the clauses in this agreement are
+provided below in French.
+Remarque : Ce logiciel étant distribué au Québec, Canada, certaines des clauses dans ce contrat sont fournies
+ci-dessous en français.
+EXONÉRATION DE GARANTIE. Le logiciel visé par une licence est offert « tel quel ». Toute utilisation de ce logiciel
+est à votre seule risque et péril. Microsoft n'accorde aucune autre garantie expresse. Vous pouvez bénéficier de
+droits additionnels en vertu du droit local sur la protection des consommateurs, que ce contrat ne peut modifier. La
+ou elles sont permises par le droit locale, les garanties implicites de qualité marchande, d'adéquation à un usage
+particulier et d'absence de contrefaçon sont exclues.
+LIMITATION DES DOMMAGES-INTÉRÊTS ET EXCLUSION DE RESPONSABILITÉ POUR LES DOMMAGES.Vous
+pouvez obtenir de Microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement à
+hauteur de 5,00 $ US. Vous ne pouvez prétendre à aucune indemnisation pour les autres dommages, y compris les
+dommages spéciaux, indirects ou accessoires et pertes de bénéfices.
+Cette limitation concerne :
+•tout ce qui est relié au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers
+ou dans des programmes tiers ; et
+•les réclamations au titre de violation de contrat ou de garantie, ou au titre de responsabilité stricte, de négligence
+ou d'une autre faute dans la limite autorisée par la loi en vigueur.
+Elle s'applique également, même si Microsoft connaissait ou devrait connaître l'éventualité d'un tel dommage. Si
+votre pays n'autorise pas l'exclusion ou la limitation de responsabilité pour les dommages indirects, accessoires ou
+de quelque nature que ce soit, il se peut que la limitation ou l'exclusion ci-dessus ne s'appliquera pas à votre égard.
+EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourriez avoir d'autres droits prévus par
+les lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si cellesci
+ne le permettent pas.
+
+END OF TERMS AND CONDITIONS
+
+___________________________________________________________________
+
+DICOM license
+Preamble
+This License governs Your use of the Work. This License is intended to allow 
+developers to use the Source Code and Executable Files provided as part of the
+Work in any application in any form.
+The main points subject to the terms of the License are:
+Source Code and Executable Files can be used in commercial applications;
+Source Code and Executable Files can be redistributed; and
+Source Code can be modified to create derivative works.
+No claim of suitability, guarantee, or any warranty whatsoever is provided.
+The software is provided "as-is".
+The Article accompanying the Work may not be distributed or republished
+without the Author's consent
+This License is entered between You, the individual or other entity reading or
+otherwise making use of the Work licensed pursuant to this License and the
+individual or other entity which offers the Work under the terms of this License
+("Author").
+License
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS
+CODE PROJECT OPEN LICENSE ("LICENSE"). THE WORK IS PROTECTED BY
+COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER
+THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS
+PROHIBITED.
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HEREIN, YOU ACCEPT
+AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE AUTHOR
+GRANTS YOU THE RIGHTS CONTAINED HEREIN IN CONSIDERATION OF YOUR
+ACCEPTANCE OF SUCH TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO
+ACCEPT AND BE BOUND BY THE TERMS OF THIS LICENSE, YOU CANNOT MAKE
+ANY USE OF THE WORK.
+1. Definitions.
+a. "Articles" means, collectively, all articles written by Author which
+describes how the Source Code and Executable Files for the Work
+may be used by a user.
+b. "Author" means the individual or entity that offers the Work under
+the terms of this License.
+c. "Derivative Work" means a work based upon the Work or upon
+the Work and other pre-existing works.
+d. "Executable Files" refer to the executables, binary files,
+configuration and any required data files included in the Work.
+e. "Publisher" means the provider of the website, magazine, CDROM,
+DVD or other medium from or by which the Work is obtained
+by You.
+f. "Source Code" refers to the collection of source code and
+configuration files used to create the Executable Files.
+g. "Standard Version" refers to such a Work if it has not been
+modified, or has been modified in accordance with the consent of the 
+Author, such consent being in the full discretion of the Author
+h. "Work" refers to the collection of files distributed by the Publisher,
+including the Source Code, Executable Files, binaries, data files,
+documentation, whitepapers and the Articles.
+i. "You" is you, an individual or entity wishing to use the Work and
+exercise your rights under this License.
+2. Fair Use/Fair Use Rights. Nothing in this License is intended to reduce,
+limit, or restrict any rights arising from fair use, fair dealing, first sale or
+other limitations on the exclusive rights of the copyright owner under
+copyright law or other applicable laws.
+3. License Grant. Subject to the terms and conditions of this License, the
+Author hereby grants You a worldwide, royalty-free, non-exclusive,
+perpetual (for the duration of the applicable copyright) license to exercise
+the rights in the Work as stated below:
+a. You may use the standard version of the Source Code or
+Executable Files in Your own applications.
+b. You may apply bug fixes, portability fixes and other modifications
+obtained from the Public Domain or from the Author. A Work
+modified in such a way shall still be considered the standard
+version and will be subject to this License.
+c. You may otherwise modify Your copy of this Work (excluding the
+Articles) in any way to create a Derivative Work, provided that You
+insert a prominent notice in each changed file stating how, when
+and where You changed that file.
+d. You may distribute the standard version of the Executable Files and
+Source Code or Derivative Work in aggregate with other (possibly
+commercial) programs as part of a larger (possibly commercial)
+software distribution.
+e. The Articles discussing the Work published in any form by the
+author may not be distributed or republished without the Author's
+consent. The author retains copyright to any such Articles. You may
+use the Executable Files and Source Code pursuant to this License
+but you may not repost or republish or otherwise distribute or
+make available the Articles, without the prior written consent of the
+Author.
+Any subroutines or modules supplied by You and linked into the Source
+Code or Executable Files of this Work shall not be considered part of this
+Work and will not be subject to the terms of this License.
+4. Patent License. Subject to the terms and conditions of this License, each
+Author hereby grants to You a perpetual, worldwide, non-exclusive, nocharge,
+royalty-free, irrevocable (except as stated in this section) patent
+license to make, have made, use, import, and otherwise transfer the
+Work.
+5. Restrictions. The license granted in Section 3 above is expressly made
+subject to and limited by the following restrictions:
+a. You agree not to remove any of the original copyright, patent,
+trademark, and attribution notices and associated disclaimers that
+may appear in the Source Code or Executable Files.
+b. You agree not to advertise or in any way imply that this Work is a
+product of Your own.
+c. The name of the Author may not be used to endorse or promote
+products derived from the Work without the prior written consent
+of the Author.
+d. You agree not to sell, lease, or rent any part of the Work. 
+This does not restrict you from including the Work or any part of the Work
+inside a larger software distribution that itself is being sold. The
+Work by itself, though, cannot be sold, leased or rented.
+e. You may distribute the Executable Files and Source Code only
+under the terms of this License, and You must include a copy of, or
+the Uniform Resource Identifier for, this License with every copy of
+the Executable Files or Source Code You distribute and ensure that
+anyone receiving such Executable Files and Source Code agrees
+that the terms of this License apply to such Executable Files and/or
+Source Code. You may not offer or impose any terms on the Work
+that alter or restrict the terms of this License or the recipients'
+exercise of the rights granted hereunder. You may not sublicense
+the Work. You must keep intact all notices that refer to this License
+and to the disclaimer of warranties. You may not distribute the
+Executable Files or Source Code with any technological measures
+that control access or use of the Work in a manner inconsistent
+with the terms of this License.
+f. You agree not to use the Work for illegal, immoral or improper
+purposes, or on pages containing illegal, immoral or improper
+material. The Work is subject to applicable export laws. You agree
+to comply with all such laws and regulations that may apply to the
+Work after Your receipt of the Work.
+6. Representations, Warranties and Disclaimer. THIS WORK IS
+PROVIDED "AS IS", "WHERE IS" AND "AS AVAILABLE", WITHOUT ANY
+EXPRESS OR IMPLIED WARRANTIES OR CONDITIONS OR GUARANTEES.
+YOU, THE USER, ASSUME ALL RISK IN ITS USE, INCLUDING COPYRIGHT
+INFRINGEMENT, PATENT INFRINGEMENT, SUITABILITY, ETC. AUTHOR
+EXPRESSLY DISCLAIMS ALL EXPRESS, IMPLIED OR STATUTORY
+WARRANTIES OR CONDITIONS, INCLUDING WITHOUT LIMITATION,
+WARRANTIES OR CONDITIONS OF MERCHANTABILITY, MERCHANTABLE
+QUALITY OR FITNESS FOR A PARTICULAR PURPOSE, OR ANY WARRANTY
+OF TITLE OR NON-INFRINGEMENT, OR THAT THE WORK (OR ANY
+PORTION THEREOF) IS CORRECT, USEFUL, BUG-FREE OR FREE OF
+VIRUSES. YOU MUST PASS THIS DISCLAIMER ON WHENEVER YOU
+DISTRIBUTE THE WORK OR DERIVATIVE WORKS.
+7. Indemnity. You agree to defend, indemnify and hold harmless the Author
+and the Publisher from and against any claims, suits, losses, damages,
+liabilities, costs, and expenses (including reasonable legal or attorneys’
+fees) resulting from or relating to any use of the Work by You.
+8. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY
+APPLICABLE LAW, IN NO EVENT WILL THE AUTHOR OR THE PUBLISHER
+BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL,
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
+ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK OR
+OTHERWISE, EVEN IF THE AUTHOR OR THE PUBLISHER HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+9. Termination.
+a. This License and the rights granted hereunder will terminate
+automatically upon any breach by You of any term of this License.
+Individuals or entities who have received Derivative Works from
+You under this License, however, will not have their licenses
+terminated provided such individuals or entities remain in full
+compliance with those licenses. Sections 1, 2, 6, 7, 8, 9, 10 and 11
+will survive any termination of this License.
+b. If You bring a copyright, trademark, patent or any other
+infringement claim against any contributor over infringements You
+claim are made by the Work, your License from such contributor to
+the Work ends automatically.
+
+
+___________________________________________________________________   
+
+XMP metadata support
+
+XMP Specification
+Public Patent License
+Adobe Systems Incorporated
+The XMP Specification provides a standard format for the definition, creation and processing of
+metadata in a variety of applications. Adobe may own patented technology disclosed in the
+specification. We offer this patent license to all individuals and organizations in the world in
+order to encourage the use of metadata in the XMP format.
+Public License
+Adobe grants every individual and organization in the world the right, under all Essential Claims
+that Adobe owns, to make, have made, use, sell, import and distribute Compliant
+Implementations. If a licensee brings (or participates in the bringing of) a lawsuit or similar
+action against any other party claiming that a Compliant Implementation infringes an Essential
+Claim, Adobe may revoke the rights granted above to such licensee. Upon such revocation, such
+rights will be deemed to have never been granted.
+No Warranty
+The XMP Specification and the license granted above are provided without warranty of any kind,
+including warranty of title or non-infringement. Nothing in this document shall be construed as
+requiring the maintenance of any patent, a warranty or representation as to the validity or scope of
+any patent, an agreement to protect or cooperate with any party or to bring or prosecute actions
+against any party, or a grant of any right under any patent claim other than an Essential Claim.
+Reservation of Rights
+All rights not expressly granted herein are reserved.
+Definitions
+“Compliant Implementation” means the portion of an application, product, or service that
+defines, creates, stores or processes metadata compliant with the XMP Specification.
+“Essential Claim” means a claim of a patent, whenever and wherever issued, that is necessarily
+infringed in order to achieve compliance with the requirements of the XMP Specification. A
+claim is necessarily infringed only when there is no reasonable way to avoid infringement of that
+claim when defining, creating, storing or processing metadata.
+“XMP Specification” means any version of the XMP Specification published by Adobe. By way
+of example only, any specification not published by Adobe or that incorporates the XMP
+Specification by reference is not the XMP Specification for purposes of this license.
+
